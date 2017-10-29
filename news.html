@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<h1>Test</h1>
+
+<ul>
+  {% for item in site.data.menu %}
+<li>
+  <a href="{{site.baseurl}}{{item.title}}.html">{{ item.title }}</a>
+  <p>{{ item.content | markdownify}}</p>
+</li>
+  {% endfor %}
+</ul>
+
+
+loop in pages
+
+
+<ul>
+{% for page in site.pages %}
+{% if page.url contains 'html' and page.publish==true %}
+<li><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+
+<ul>
+  {% for item in site.posts %}
+<li>
+  <a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a>
+  <p>{{ item.meta }}</p>
+</li>
+  {% endfor %}
+</ul>
+
+
+# or specific category loop
+
+<ul>
+  {% for item in site.categories.news %}
+<li>
+  <a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a>
+  <p>{{ item.meta }}</p>
+</li>
+  {% endfor %}
+</ul>
+
+# we can limit for loop like this
+<ul>
+  {% for item in site.posts limit:1%}
+<li>
+  <a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a>
+  <p>{{ item.meta }}</p>
+</li>
+  {% endfor %}
+</ul>

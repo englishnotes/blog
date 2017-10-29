@@ -1,0 +1,15 @@
+---
+- title: menu1
+  meta: meta1
+  folder: menu
+  content: 'Sample **markdown** text1'
+
+- title: menu2
+  meta: meta2
+  folder: menu
+  content: 'Sample **markdown** text2'
+
+- title: menu3
+  meta: meta3
+  folder: menu
+  content: 'Sample **markdown** text3'

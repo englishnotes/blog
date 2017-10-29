@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>Downloads</h1>
+
+
+<ul>
+  {% for download in site.downloads %}
+<li>
+  <a href="{{site.baseurl}}{{download.url}}">{{ download.title }}</a>
+  <p>{{ download.description }}</p>
+</li>
+  {% endfor %}
+</ul>
