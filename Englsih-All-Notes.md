@@ -1,292 +1,13 @@
-
-# ENGLISH
-
+ ENGLISH
 
 Table of contents
-
-
-* [ENGLISH](#english )
-* [1 Tenses Summary](#1-tenses-summary )
-	* [1.1 Tenses Chart-1](#11-tenses-chart-1 )
-	* [1.2 Tenses Chart-2](#12-tenses-chart-2 )
-* [2 Present Tenses](#2-present-tenses )
-	* [2.1 Present Simple](#21-present-simple )
-		* [**Usage (fact, habit)**](#usage-fact-habit )
-	* [2.2 Present Continuous](#22-present-continuous )
-		* [**Usage (in proggress)**](#usage-in-proggress )
-		* [**Examples**](#examples )
-	* [2.3 Present Perfect](#23-present-perfect )
-		* [**Usage (Action completed at the time of speaking )**](#usage-action-completed-at-the-time-of-speaking )
-		* [Example](#example )
-	* [2.4 Present Perfect Continuous](#24-present-perfect-continuous )
-		* [**Usage (action started in the past, is still in progress)**](#usage-action-started-in-the-past-is-still-in-progress )
-* [3 Past Tenses](#3-past-tenses )
-	* [3.1 Past Simple](#31-past-simple )
-		* [**Usage (Action completed at the specific time in the past)**](#usage-action-completed-at-the-specific-time-in-the-past )
-	* [3.2 Past Continuous](#32-past-continuous )
-		* [**Usage**](#usage )
-	* [3.3 Past Perfect](#33-past-perfect )
-		* [**Usage**](#usage-1 )
-		* [**Examples**](#examples-1 )
-	* [3.4 Past Perfect Continuous](#34-past-perfect-continuous )
-		* [**Usage**](#usage-2 )
-* [4 Future Tenses](#4-future-tenses )
-	* [4.1 Future Simple](#41-future-simple )
-		* [**Usage**](#usage-3 )
-		* [**Be going to**](#be-going-to )
-			* [Examples](#examples-2 )
-			* [“Will”  vs  “to be going to”](#will-vs-to-be-going-to )
-			* [WILL](#will )
-			* [TO BE GOING TO](#to-be-going-to )
-	* [4.2 Future Continuous](#42-future-continuous )
-		* [**Usage**](#usage-4 )
-	* [4.3 Future Perfect](#43-future-perfect )
-		* [**Usage**](#usage-5 )
-	* [4.4 Future Perfect Continuous](#44-future-perfect-continuous )
-		* [**Usage**](#usage-6 )
-* [5 Tenses usage review](#5-tenses-usage-review )
-	* [**Present Tense**](#present-tense )
-		* [**Present Simple : S + V1**](#present-simple-s-v1 )
-		* [**Present Continuous : S + am,is,are + Ving**](#present-continuous-s-amisare-ving )
-		* [**Present Perfect : S+ have,has + V3**](#present-perfect-s-havehas-v3 )
-		* [**Present Perfect Continuous : S + have, has + been + Ving**](#present-perfect-continuous-s-have-has-been-ving )
-	* [**Past Tense**](#past-tense )
-		* [**Past Simple : S + V2**](#past-simple-s-v2 )
-		* [**Past Continuous : S + was,were + Ving**](#past-continuous-s-waswere-ving )
-		* [** Past Perfect : S + had + V3**](#past-perfect-s-had-v3 )
-		* [**Past Perfect Continuous : S+ had been + Ving**](#past-perfect-continuous-s-had-been-ving )
-	* [**Future Tense**](#future-tense )
-		* [**Future Simple : S+ will, shall + V**](#future-simple-s-will-shall-v )
-		* [**Be going to**](#be-going-to-1 )
-		* [**Future Continuous : S + will, shall + be + Ving**](#future-continuous-s-will-shall-be-ving )
-		* [**Future Perfect : S+ will have + V3**](#future-perfect-s-will-have-v3 )
-		* [**Future Perfect Continuous : S + will have been + Ving**](#future-perfect-continuous-s-will-have-been-ving )
-* [6 Verbs](#6-verbs )
-	* [6.1 so](#61-so )
-	* [6.2 primary auxiliary verb, modal auxiliary verb](#62-primary-auxiliary-verb-modal-auxiliary-verb )
-	* [6.3 The three forms of a verb](#63-the-three-forms-of-a-verb )
-	* [6.4 Transitive and intransitive verbs](#64-transitive-and-intransitive-verbs )
-	* [6.5 Stative verbs](#65-stative-verbs )
-	* [6.6 Regular verbs](#66-regular-verbs )
-	* [6.7 Irregular Verbs](#67-irregular-verbs )
-	* [6.8 “To be” + infinitive with “to”](#68-to-be-infinitive-with-to )
-	* [6.9 Opposites Verbs](#69-opposites-verbs )
-	* [6.10 Actin Verbs, State Verbs](#610-actin-verbs-state-verbs )
-	* [6.11 Primary Auxiliary Verbs](#611-primary-auxiliary-verbs )
-		* [6.11.1 To Be](#6111-to-be )
-			* [To be](#to-be )
-		* [6.11.2 Do](#6112-do )
-		* [6.11.3 Have](#6113-have )
-			* [Have, Has](#have-has )
-			* [6.11.3.1 Present perfect - Present perfect continuous](#61131-present-perfect-present-perfect-continuous )
-			* [6.11.3.2 Past perfect - Past perfect continuous](#61132-past-perfect-past-perfect-continuous )
-			* [6.11.3.3 Future perfect - Future perfect continuous](#61133-future-perfect-future-perfect-continuous )
-			* [6.11.3.4 have / has](#61134-have-has )
-	* [6.12 Modals Auxiliary Verbs](#612-modals-auxiliary-verbs )
-		* [6.12.1 Modal auxiliary for probability](#6121-modal-auxiliary-for-probability )
-		* [6.12.2 Be going to](#6122-be-going-to )
-			* [Structure](#structure )
-			* [Contraction](#contraction )
-			* [Usage](#usage-7 )
-			* [Example](#example-1 )
-		* [6.12.3 Can - could](#6123-can-could )
-			* [CAN](#can )
-				* [Uses](#uses )
-				* [PRESENT / FUTURE](#present-future )
-				* [PAST](#past )
-			* [COULD](#could )
-				* [Uses](#uses-1 )
-				* [PRESENT / FUTURE](#present-future-1 )
-				* [PAST](#past-1 )
-			* [6.12.3.1 Could-would be able](#61231-could-would-be-able )
-		* [6.12.4 Will - would](#6124-will-would )
-			* [WILL](#will-1 )
-				* [Uses](#uses-2 )
-				* [PRESENT / FUTURE](#present-future-2 )
-			* [WHOULD](#whould )
-				* [Uses](#uses-3 )
-				* [PRESENT / FUTURE](#present-future-3 )
-				* [PAST](#past-2 )
-		* [6.12.5 May - might](#6125-may-might )
-			* [MAY](#may )
-				* [USES](#uses-4 )
-				* [PRESENT / FUTURE](#present-future-4 )
-				* [PAST](#past-3 )
-			* [MIGHT](#might )
-				* [Uses](#uses-5 )
-				* [PRESENT / FUTURE](#present-future-5 )
-				* [PAST](#past-4 )
-		* [6.12.6 Shall - should](#6126-shall-should )
-			* [SHALL](#shall )
-				* [USES](#uses-6 )
-				* [PRESENT / FUTURE](#present-future-6 )
-				* [PAST](#past-5 )
-			* [SHOULD](#should )
-				* [USES](#uses-7 )
-				* [PRESENT / FUTURE](#present-future-7 )
-				* [PAST](#past-6 )
-		* [6.12.7 Must - ought](#6127-must-ought )
-			* [must](#must )
-				* [USES](#uses-8 )
-				* [PRESENT / FUTURE](#present-future-8 )
-				* [PAST](#past-7 )
-			* [ought](#ought )
-				* [Uses](#uses-9 )
-				* [PRESENT / FUTURE](#present-future-9 )
-				* [PAST](#past-8 )
-			* [6.12.7.1 Must / Should / Have to](#61271-must-should-have-to )
-		* [6.12.8 have to - have got to](#6128-have-to-have-got-to )
-			* [Have to](#have-to )
-				* [USES](#uses-10 )
-				* [PRESENT / FUTURE](#present-future-10 )
-				* [PAST](#past-9 )
-			* [have got to](#have-got-to )
-				* [USES](#uses-11 )
-				* [PRESENT / FUTURE](#present-future-11 )
-				* [PAST](#past-10 )
-		* [6.12.9 be to - be supposed to](#6129-be-to-be-supposed-to )
-			* [be  to](#be-to )
-				* [USES](#uses-12 )
-				* [PRESENT / FUTURE](#present-future-12 )
-				* [PAST](#past-11 )
-			* [be supposed to](#be-supposed-to )
-				* [USES](#uses-13 )
-				* [PRESENT / FUTURE](#present-future-13 )
-				* [PAST](#past-12 )
-		* [6.12.10 had better](#61210-had-better )
-			* [had better](#had-better )
-				* [USES](#uses-14 )
-				* [PRESENT / FUTURE](#present-future-14 )
-				* [PAST](#past-13 )
-		* [6.12.11 be able to](#61211-be-able-to )
-			* [be able to](#be-able-to )
-				* [USES](#uses-15 )
-				* [PRESENT / FUTURE](#present-future-15 )
-				* [PAST](#past-14 )
-		* [6.12.12 used to](#61212-used-to )
-			* [used to](#used-to )
-				* [USES](#uses-16 )
-				* [PRESENT / FUTURE](#present-future-16 )
-				* [PAST](#past-15 )
-	* [6.13 Imperatives](#613-imperatives )
-	* [6.14 Go, get, Make or Do](#614-go-get-make-or-do )
-	* [6.15 Strong and weak pronunciation forms](#615-strong-and-weak-pronunciation-forms )
-	* [6.16 "Will" and "would" for habits](#616-will-and-would-for-habits )
-* [7 Conditionals - if and wish](#7-conditionals-if-and-wish )
-	* [7.1 1st Conditional, 2nd Conditional](#71-1st-conditional-2nd-conditional )
-	* [7.2 wish](#72-wish )
-* [8 Passive](#8-passive )
-	* [8.1 Active/ Passive voice](#81-active-passive-voice )
-		* [8.1.1 Question words](#811-question-words )
-	* [8.2 Uses of the passive voice](#82-uses-of-the-passive-voice )
-* [9 Reported speech](#9-reported-speech )
-	* [9.1 Tell, say](#91-tell-say )
-	* [9.2 Direct speech and indirect speech](#92-direct-speech-and-indirect-speech )
-	* [9.3 Direct/indirect speech](#93-directindirect-speech )
-	* [9.4 imperatives, command](#94-imperatives-command )
-* [10 some in questions](#10-some-in-questions )
-* [11 Questions](#11-questions )
-	* [11.1 Making Questions](#111-making-questions )
-			* [Verb "to be"](#verb-to-be )
-			* [Modal Verbs](#modal-verbs )
-			* [Auxilary Verbs](#auxilary-verbs )
-			* [When you can not see the auxilary verb](#when-you-can-not-see-the-auxilary-verb )
-			* [Question words;](#question-words )
-			* [Who and What as subject](#who-and-what-as-subject )
-	* [11.2 How to make a question](#112-how-to-make-a-question )
-	* [11.3 Tail questions](#113-tail-questions )
-	* [11.4 Short answers](#114-short-answers )
-	* [11.5 So would i,neither can he, nor should they](#115-so-would-ineither-can-he-nor-should-they )
-	* [11.6 what and which](#116-what-and-which )
-	* [11.7 Question without the question form](#117-question-without-the-question-form )
-* [12 gerund, infinitive](#12-gerund-infinitive )
-	* [12.1 rather, would rather, would prefer to](#121-rather-would-rather-would-prefer-to )
-	* [12.2 Common uses of the gerund](#122-common-uses-of-the-gerund )
-* [13 Nouns and Articles](#13-nouns-and-articles )
-	* [13.1 Words not used in the plural](#131-words-not-used-in-the-plural )
-	* [13.2 Plural and singular nouns](#132-plural-and-singular-nouns )
-	* [13.3 infinitive and gerund](#133-infinitive-and-gerund )
-	* [13.4 The, a](#134-the-a )
-	* [13.5 making verb](#135-making-verb )
-	* [13.6 Noun (or pronoun) + infinitive with “to”](#136-noun-or-pronoun-infinitive-with-to )
-	* [13.7 "Any” and “some” with singular countable nouns](#137-any-and-some-with-singular-countable-nouns )
-* [14 Pronouns and Determiners](#14-pronouns-and-determiners )
-	* [14.1 Reflexive pronouns](#141-reflexive-pronouns )
-	* [14.2 Emphasizing pronouns](#142-emphasizing-pronouns )
-* [15 Relative clauses](#15-relative-clauses )
-	* [15.1 Relative clauses, Relative pronouns](#151-relative-clauses-relative-pronouns )
-	* [15.2 Preparatory](#152-preparatory )
-* [16 Adjectives](#16-adjectives )
-	* [16.1 Comparatives, Superlatives](#161-comparatives-superlatives )
-	* [16.2 Possessive adjectives-Poseessive pronouns](#162-possessive-adjectives-poseessive-pronouns )
-* [17 Adverbs](#17-adverbs )
-	* [17.1 Adverbs formed from adjectives](#171-adverbs-formed-from-adjectives )
-	* [17.2 Adverbs of frequency](#172-adverbs-of-frequency )
-* [18 Conjunctions and prepositions](#18-conjunctions-and-prepositions )
-	* [18.1 Preposition (on,under,in,from etc.)](#181-preposition-onunderinfrom-etc )
-	* [18.2 in spite of/ despite](#182-in-spite-of-despite )
-* [19 Phrasal verbs](#19-phrasal-verbs )
-* [20 Sentence Pattern](#20-sentence-pattern )
-	* [20.1 “The” + comparative ..., “the” + comparative ...](#201-the-comparative-the-comparative )
-* [21 Vocabulary](#21-vocabulary )
-* [22 Idioms](#22-idioms )
-* [23 Suffix, Prefix](#23-suffix-prefix )
-	* [23.1 Change of spelling with comparison of adjectives](#231-change-of-spelling-with-comparison-of-adjectives )
-	* [23.2 S suffix](#232-s-suffix )
-	* [23.3 "-ed" Pronunciation](#233-ed-pronunciation )
-	* [23.4 Doubling consonants](#234-doubling-consonants )
-	* [23.5 Common verb suffixes](#235-common-verb-suffixes )
-	* [23.6 Common prefixes](#236-common-prefixes )
-* [24 Quantity](#24-quantity )
-	* [24.1 Any/Some - Many/Specific](#241-anysome-manyspecific )
-	* [24.2 anybody, somebody, nobody](#242-anybody-somebody-nobody )
-	* [24.3 Many, much, few little, a lot of](#243-many-much-few-little-a-lot-of )
-* [25 Clause and Phrase](#25-clause-and-phrase )
-	* [25.1 Clauses, Conjunction, Phrases](#251-clauses-conjunction-phrases )
-	* [25.2 Time clause, Conditional clause](#252-time-clause-conditional-clause )
-* [26 Embedded Questions](#26-embedded-questions )
-* [27 Practicing](#27-practicing )
-* [28 Pronunciation](#28-pronunciation )
-* [29 Sorulara cevap vermek](#29-sorulara-cevap-vermek )
-* [30 Kısaltmalar - contraction](#30-kısaltmalar-contraction )
-* [31 Cümle kurmak](#31-cümle-kurmak )
-* [32 Kelimeler ve kullanım şekilleri](#32-kelimeler-ve-kullanım-şekilleri )
-* [33 ToolBox](#33-toolbox )
-	* [33.1 Synonyms & Antonyms](#331-synonyms-antonyms )
-	* [33.2 Useful Questions](#332-useful-questions )
-	* [33.3 Sentences](#333-sentences )
-* [34 Pronetic Alphabet- IPA](#34-pronetic-alphabet-ipa )
-		* [Vowels](#vowels )
-		* [Consanant](#consanant )
-	* [#](# )
-* [35 Make a suggestion](#35-make-a-suggestion )
-* [36 titles- sir,madam,gentleman,lady,mr,mrs](#36-titles-sirmadamgentlemanladymrmrs )
-* [37 Emphatic Do](#37-emphatic-do )
-* [38 Formal letters, emails](#38-formal-letters-emails )
-* [39 discuss, argue, quarrel](#39-discuss-argue-quarrel )
-* [40 Giving, asking for opinions](#40-giving-asking-for-opinions )
-* [41 Communicating general beliefs and opinions](#41-communicating-general-beliefs-and-opinions )
-* [42 Writing](#42-writing )
-	* [42.1 General advice for writing](#421-general-advice-for-writing )
-	* [42.2 Writing an informal letter or email](#422-writing-an-informal-letter-or-email )
-	* [42.3 Writing a cover letter](#423-writing-a-cover-letter )
-	* [42.4 Writing a report](#424-writing-a-report )
-	* [42.5 Emphasis: Inversions after negative or limiting adverbials](#425-emphasis-inversions-after-negative-or-limiting-adverbials )
-	* [42.6 the bigger... the more....](#426-the-bigger-the-more )
-	* [42.7 Writing a story](#427-writing-a-story )
-	* [42.8 in prison, to church, at university](#428-in-prison-to-church-at-university )
-	* [42.9 Writing an essay](#429-writing-an-essay )
-	* [42.10 Writing an article](#4210-writing-an-article )
-	* [42.11 Reduced relative clauses](#4211-reduced-relative-clauses )
-	* [42.12 Writing a review](#4212-writing-a-review )
-* [43 Fixed phrases](#43-fixed-phrases )
-	* [**Giving information**](#giving-information )
+[toc]
+Yazan: Atilla Tanrikulu
+Buradaki anlatim, birkac kitaptan cikardigim ozetten ibarettir.
 
 # 1 Tenses Summary
 
-
 ## 1.1 Tenses Chart-1
-
 
 - Main time parts
 --> Past  ------> Present -------> Future ---->
@@ -303,13 +24,12 @@ Table of contents
 
 ## 1.2 Tenses Chart-2
 
-
 **1. Present Tense**
 
 |                   | Positive                  | Negative                     | Question                  | Descriptions                                            |
 |:------------------|:--------------------------|:-----------------------------|:--------------------------|:--------------------------------------------------------|
 | Simple            | S + V1                    | S + do/does not + V1         | do/does + S + V1          | fact, habit                                             |
-| Continuous        | S + am/is/are + V1ing     | S + am/is/are not + V1ing    | am/is/are + S+ V1ing      | we are doing now, changes happening                     |
+| Continuous        | S + am/is/are + V1ing     | S + am/is/are not + V1ing    | am/is/are + S+ V1ing      | we are doing now, changes happening, future arrangement |
 | Perfect           | S + have/has + V3         | S + have/has+not+V3          | have/has + S + V3         | action completed at the time of speaking                |
 | Perfect Continuos | S + have/has + been V1ing | S + have/has not+ been V1ing | have/has + S + been V1ing | actin started in the past, is still in progress         |
 
@@ -335,9 +55,7 @@ Table of contents
 
 # 2 Present Tenses
 
-
 ## 2.1 Present Simple
-
 
  I do, he does, Tom does
 
@@ -347,13 +65,21 @@ Question :  do/does + S + V1  (do i? does he?)
 
 ### **Usage (fact, habit)**
 
-
 1- For something which happens, (Action is **regular** , **habitual**   or **repeatedly** ) (things in general)
    We go out every Saturday night regularly or which is a habit. I usually go away at weekends.
 2- For a **fact**  , The earth travels around the sun. The earth goes around the sun. Two and two make four
 3- To give **instructions** ,    First you check the gears and handbrake, then you switch on the engine.
 4- To **describe events**  in jokes, stories, news : Real Madrid beats Milan.
 5- For **future events**  on a timetable or a fixed program, The match begins at 3:30 pm
+
+- **Action verbs:**  
+i play football.
+i run every morning.
+
+- **State verbs:**  I know football. i like apple
+  like, want, need, prefer
+  know, realise, suppose, mean, understand, believe, remember
+  belong, fit, contain, consist, seem
 
 - **"to be"** : **with the main verb am/is/are**
   I'm Turkish.
@@ -366,15 +92,6 @@ Question :  do/does + S + V1  (do i? does he?)
   yes/no questions; am i, are you, is he, is she, is it, are we, are they
   Wh questions: Where am I ? What are yo u? Why is he? Who is she ? When are we ? How are they ?
   Wh : When, Where, What, Who, Why, How
-
-- **Action verbs:**  
-i play football.
-i run every morning.
-
-- **State verbs:**  I know football. i like apple
-  like, want, need, prefer
-  know, realise, suppose, mean, understand, believe, remember
-  belong, fit, contain, consist, seem
 
 - Have - Has
   Do - does
@@ -424,10 +141,7 @@ On the other hand, if I use the present perfect and say “When I have eaten din
 
 resources: http://www.perfect-english-grammar.com/support-files/present_simple_form.pdf
 
-
-
 ## 2.2 Present Continuous
-
 
 I am doing, You are doing, He is doing, Tom is doing
 
@@ -441,8 +155,7 @@ I'm   = i am
 he/she/it isn't  = is not
 we're  = we are
 
-### **Usage (in proggress)**
-
+### **Usage (in proggress)**  
  **1-**  Action going on at present time.
     For an event in progress at the present time.   
     We use the present continuous for an action that **we are doing now** .
@@ -453,15 +166,15 @@ I'm trying to work
    I'm reading a really good book. (but I'm not reading at the time of speaking)
 
  **3-**  We use the present continuous when we talk about **changes happening**  around now
-especially these words (get, change, become, increase, rise, fall, grow, improve, begin, start)
+especially these words ( **get, change, become, increase, rise, fall, grow, improve, begin, start** )
    Is your English getting better?
 
  **4-**   **Repeated actions** , with " **always** ", to show surprise or disapproval when an **action is repeated** .
 She always borrowing money from me.    
-    .... always ....V1ing
+.... always ....V1ing
 you're always playing computer games.
 
-5- Present continuous for the future. ( **arrangement)**
+ **5-**  Present continuous for the future. ( **arrangement)**
 - However, we can also use the present continuous and say “ **We're going to**  the theatre”
 if we want to communicate that the visit has already been **arranged** ; we have already bought the tickets, for example.
 I'm coming to school tomorrow, (arranged)
@@ -469,18 +182,8 @@ I'm going away next weekend.
 We're flying to Spain next week.
 Are you coming to school tomorrow?
 
- **- To be going to**
-- As we know, we use “to be going to” to communicate a **future intention** .
-For example, the sentence “ **We're going to go** to the theatre” suggests that we have already decided to go to the theatre; it is our intention to go.
-“I’m going to keep studying English for a few more years”.
-
-- One use of “to be going to” is to say what we **think will happen**  because of something we know now.
-For example,
-“The sky is very dark now; I think it’s going to rain”, or
-“John is a very good student; he’s going to do well in his exams”.
-
 - **State verbs**  aren't used in continuous tenses.
- some verbs are not normally used in the present continuous tense
+some verbs are not normally used in the present continuous tense
 we use instead of "simple tense"
 I'm hungry. I want  something to eat (not I'm wanting)
 do you understand what I mean?
@@ -492,8 +195,18 @@ do you see that man over there? (not are you seeing)
  see, hear, smell, taste
  look feel,
 
-### **Examples**
+ **- To be going to**
+- As we know, we use “to be going to” to communicate a **future intention** .
+For example, the sentence “ **We're going to go** to the theatre” suggests that we have already decided to go to the theatre; it is our intention to go.
+“I’m going to keep studying English for a few more years”.
 
+- One use of “to be going to” is to say what we **think will happen**  because of something we know now.
+For example,
+“The sky is very dark now; I think it’s going to rain”, or
+“John is a very good student; he’s going to do well in his exams”.
+
+
+### **Examples**
 I am going to the door;
 I am coming from the door; I am closing the book;
 I am opening the book.
@@ -521,7 +234,6 @@ eger state bildiren (aksiyon bildirmeyen) bir fiil varsa, I like sweets, it look
 
 ## 2.3 Present Perfect
 
-
 I have done
 
 "Have" + past participle
@@ -531,13 +243,11 @@ Question :  have/has+ S + V3  (has he swum)
 
 Contractions:
 i've spoken  (i have)
-I have eaten
 he's/she's/it's spoken (he has spoken)
 he/she/it hasn't spoken (has not)
 we've spoken (we have)
 
 ### **Usage (Action completed at the time of speaking )**
-
 1- For an event which is finished but still **effects**  the present. (the action in the past has a result now.)
     I can't write because I've broken my arm.
     I've cut my finger
@@ -548,13 +258,11 @@ we've spoken (we have)
 
 - A completed action without a specified time in the past
 - action completed at some point in the past
-- The following expressions **require** this tense:already, so far, not yet, recently, just, ever, never,  today until now  etc.
 - There is no time specified in the past
+- The following expressions **require** this tense: ** already, so far, not yet, recently, just, ever, never,  today until now**   etc.
 
 - We use it to talk about our **experiences** . If I say “I have eaten Chinese food“, it means I have experience of “eating Chinese food“. If I say “I have been to Paris“, it means that I have experience of “being in Paris“.
-
 - We also use the present perfect to talk about the duration of an action **up to now** . If I say “I have lived here for three years“, it means that I’m living here now and I started living here three years ago.
-
 - We can also use the present perfect to talk about the **result now of a past action** . For example, “I have eaten too much“ means that I feel bad (or guilty) now. “She has arrived“ means that she is here now.
 
 - **Action verbs** :
@@ -586,16 +294,12 @@ The first sentence, “Mr Brown has been to Scotland“, means that he has visit
 
 We can say “Mr Brown has gone to Scotland“, because he is not here now, but we can’t say “I have gone to Scotland“, because that means I am not here now, which is impossible.
 
- **Present perfect or past simple**
-As we already know, the difference between the present perfect and the past simple is that we use the present perfect when we are thinking about time before and up to now, whereas we use the past simple when we are thinking about a specific past time. For example, “I have been here for twenty minutes; I arrived here twenty minutes ago”.
-
 Now think about this sentence:
 “I ate eggs for breakfast today.”
 
 In sentences like this, some students make the mistake of saying “I have eaten” because they are using the word “today”. This is wrong. We say “I ate eggs for breakfast today” because, as the rule tells us, we are thinking about what happened at a specific past time – breakfast time. The fact that the word “today” is in the sentence changes nothing; we are not thinking about now. We are thinking about breakfast time, which is a specific past time.
 
 ### Example
-
 
 i have already written the letter
 The road is closed. There's been an accident.
@@ -604,24 +308,21 @@ The road is closed. There's been an accident.
 He has gone to italy (he is there now) or (on his way there)
 He has been to italy (he has now come back)
 
-
 ## 2.4 Present Perfect Continuous
-
 
 I have been doing, She has been doing.  
 
 Positive  :  S +have/has +been + V1ing   (i have been doing)
-Negative :  S + have/has+ not + been +V1ing  (you have not  been doingg)
+Negative :  S + have/has+ not + been +V1ing  (you have not  been doing)
 Question :  have/has+ S + been +V1ing  (has he been doing)
 
 Contraction:
-i've been speaking  (i have)
+I 've been speaking  (i have)
 he's/she's/it's been speaking (he has  been speaking)
 he/she/it hasn't been speaking (has not)
 we've been speaking (we have)
 
 ### **Usage (action started in the past, is still in progress)**
-
 - Action that has already started and is still going on.
 I have been doing, She has been doing.  etc.
 
@@ -667,12 +368,9 @@ living here for two months“ and “I have lived here for two months“.
 When speaking about duration, we can normally use either the perfect
 continuous tenses or the perfect tenses.
 
-
 # 3 Past Tenses
 
-
 ## 3.1 Past Simple
-
 
 I did
 
@@ -684,7 +382,6 @@ Contraction:
 I didn't watch TV (did not)
 
 ### **Usage (Action completed at the specific time in the past)**
-
 1- A completed action at the specified time in the past.
     Last night i went to a concert
 2- To describe a past habit
@@ -723,7 +420,6 @@ For example, “Did you work yesterday?“ – “No, I didn’t work yesterday�
 
 ## 3.2 Past Continuous
 
-
 I was doing, you were doing
 
 Positive  :  S + was/were +V1ing  ( i was swiming )
@@ -731,11 +427,10 @@ Negative :  S + was't/weren't+ V1ing  (i wasn't swiming)
 Question :  was/were + S + V1ing (was i swiming)
 
 Contraction:
-i wans't watching TV (was not)
+i wasn't watching TV (was not)
 you weren't going (were not)
 
 ### **Usage**
-
 1- Action **in progress in the past**  (action going on in the past or for an action that wasin progress at a particular time in the past)
    I was driving along the motorway when  i had a puncture. (puncture: lastik patlamasi)
 2- for 2 or more events which were in progress at the same time in the past
@@ -757,7 +452,6 @@ For example, “I did not realize when we first started this job that it was to 
 
 ## 3.3 Past Perfect
 
-
 I had done, we had done etc.
 
 Positive  :  S + had+V3  ( i had swum )
@@ -770,7 +464,6 @@ he'd done (he had gone)
 i hadn't watching TV (had not)
 
 ### **Usage**
-
 1- for an event which happened before another in the past (action took place before another action)
 - Action that was completed in the past.
 - She had written that novelbefore she became ill.
@@ -783,14 +476,12 @@ For example, with the present perfect, we can say
 
 ### **Examples**
 
-
 1- I went back home because i'd forgotten my keys.
 when i came, he'd finished his work
 
 
 
 ## 3.4 Past Perfect Continuous
-
 
 I had been doing, we had been doing
 
@@ -804,7 +495,6 @@ he'd been going (he had been going)
 i hadn't been watching TV (had not)
 
 ### **Usage**
-
 1- To emphasize the continuous activity which happened before another in the past
  action lasted for some time before another action
 They had been studying four hours when they suddenly realized it was midnight.
@@ -822,9 +512,7 @@ means that I started cooking and then twenty minutes later she arrived.
 
 # 4 Future Tenses
 
-
 ## 4.1 Future Simple
-
 
 i will do, she will do. etc.
 
@@ -833,7 +521,6 @@ Negative :  S + will notl+ V1  (i won't swim)
 Question :  will + S + V1 (will you swim)
 
 ### **Usage**
-
 1- to make a prediction about the future
 2- just this moment decided to do something
 
@@ -842,7 +529,6 @@ Question :  will + S + V1 (will you swim)
 - I will probably call him this night
 
 ### **Be going to**
-
 i am going to do, she is going to do etc.
 - Action in the future that has already been planed by the speaker
 - I am going to do
@@ -924,8 +610,7 @@ should say “I’m going to watch a film tonight”. It is wrong in this situat
 to say “I will watch a film tonight”. This is a very common mistake.
 
 
-#### Examples
-
+### Examples
 
 1- I guess out team will win the match next week.
 2- if I say “It’s getting cold; I’ll close the window“
@@ -936,16 +621,14 @@ i/we/you/they will take, he/she/it will take
 i will meet him next week
 
 -----------
-#### “Will”  vs  “to be going to”
-
+### “Will”  vs  “to be going to”
 
 Two common ways to talk about the future are:
 
 1- I will go to London tomorrow (future simple)
 2- I am going to go to London tomorrow (“to be going to“)
 
-#### WILL
-
+### WILL
 
 **Decided just this moment**
 These different forms communicate different ideas.
@@ -961,8 +644,7 @@ We can also use the future simple to make a prediction. For example, if I say to
 I am making a prediction that the exam will be easy.
 
 
-#### TO BE GOING TO
-
+### TO BE GOING TO
 
 **Not:** to  be going to kullaninca, will in kullanimini bir seviye daha kuvvetlendiriyoruz
 will yerine kullanirsak, su anda karar vermemisiz daha onceden karar vermisiz oluyor
@@ -991,7 +673,6 @@ to say “I will watch a film tonight”. This is a very common mistake.
 
 ## 4.2 Future Continuous
 
-
 I will be doing, we will be doing etc.
 
 Positive  :  S +will/shall+ be + V1ing   (i will be swiming)
@@ -1011,7 +692,6 @@ For example, the sentence “I will be sleeping at 4 o’clock tomorrow morning�
 
 ### **Usage**
 
-
 1-  for an event which will be in progress at a certain time in the future
 action will be going on in the future
 This time next week I'll be swimming in the Black Sea.
@@ -1029,7 +709,6 @@ I will wake up after 4 o’clock; at 4 o’clock, I will be in the middle of a p
 
 ## 4.3 Future Perfect
 
-
 I will have done, We will have done etc.
 
 Positive  :  S +will/shall+ have + V3   (i will have swum)
@@ -1037,7 +716,6 @@ Negative :  S + will/shall+ not  + V3   (you will have swum)
 Question :  will/shall+ S + V3   (will he have swum)
 
 ### **Usage**
-
 
 1-  for an event which will be over not later than a certain time in the future
 action will take place before another action
@@ -1082,7 +760,6 @@ When you arrive at my house, I will have cooked dinner
 
 ## 4.4 Future Perfect Continuous
 
-
 I will have been doing
 
 Positive  :  S +will/shall+ have + been + V1ing   (i will have been swiming)
@@ -1093,7 +770,6 @@ Contraction:
 he won't have been swiming (will not)
 
 ### **Usage**
-
 -  for something still in progress but which will be complete not leter
 action will last for some time before another action
 He'll have been working for the bank for 30 years next summer.
@@ -1137,12 +813,9 @@ continuous tenses or the perfect tenses.
 
 # 5 Tenses usage review
 
-
-## **Present Tense**
-
+##   **Present Tense**
 
 ### **Present Simple : S + V1**
-
  i do, he does
 
 - Afact -  (things in general) *The Earth travels round the Sun.*
@@ -1155,13 +828,11 @@ Action verbs: i play football. i run every morning.
 State verbs: I know football. i like apple
 
 ### **Present Continuous : S + am,is,are + Ving**
-
 - I'm  doing, She is doing. We are doing
 - Temporary action in progress at present. action is happening now
 State verbs aren't used in continuous tenses.
 
-### **Present Perfect : S+ have,has + V3**
-
+###   **Present Perfect : S+ have,has + V3**
 i have done, She has done etc.
 - A completed action without a specified time in the past
 - action completed at some point in the past
@@ -1182,7 +853,6 @@ with the state verb the "present perfect" has replaces "present perfect continuo
   - i have known her since 2010
 
 ### **Present Perfect Continuous : S + have, has + been + Ving**
-
 I have been doing, She has been doing.  etc.
 - Action that has already started and is still going on.
 - we usespecific time markersince, for etc.
@@ -1193,9 +863,7 @@ I have been doing, She has been doing.  etc.
 
 ## **Past Tense**
 
-
-### **Past Simple : S + V2**
-
+###   **Past Simple : S + V2**
 i did, she did
 - A completed action at the specified time in the past.
 - Any time expression that refers to a specific time in the past require this tense.
@@ -1213,19 +881,16 @@ i did, she did
   - I was happy
 
 ### **Past Continuous : S + was,were + Ving**
-
 I was doing, you were doing (yapıyordum)
 - Action in progress in the past
 - She was writing that novelwhen she became ill
 
-### ** Past Perfect : S + had + V3**
-
+###  ** Past Perfect : S + had + V3**
 I had done, we had done etc. (yaptım, yapmıştım, x olayı olmadan önce yapmıştım)
 - Action that was completed in the past.
 - She had written that novelbefore she became ill.
 
 ### **Past Perfect Continuous : S+ had been + Ving**
-
 I had been doing, we had been doing etc.
 - To emphasize the continuous activity which happened before another in the past
 - A longer action in the past occurred before another action.
@@ -1234,9 +899,7 @@ I had been doing, we had been doing etc.
 
 ## **Future Tense**
 
-
 ### **Future Simple : S+ will, shall + V**
-
 i will do, she will do. etc.
 - to make a prediction about the future
 - just this moment decided to do something
@@ -1245,7 +908,6 @@ i will do, she will do. etc.
 - I will probably call him this night
 
 ### **Be going to**
-
 i am going to do, she is going to do etc.
 - Action in the future that has already been planed by the speaker
 - I am going to do
@@ -1258,7 +920,6 @@ i am going to do, she is going to do etc.
 - I'am having dinner with Dann tonight.
 
 ### **Future Continuous : S + will, shall + be + Ving**
-
 I will be doing, we will be doing etc.
 - Action in progress at the specific time in the future.
 - I'am doing something tomorrow. she is doing ... next week.
@@ -1266,13 +927,11 @@ I will be doing, we will be doing etc.
 - No, i will be having dinner with Dan
 
 ### **Future Perfect : S+ will have + V3**
-
 I will have done, We will have done etc.
 - Action that will be completed in the future.
 - i will have done (yapmış olacağım)
 
 ### **Future Perfect Continuous : S + will have been + Ving**
-
 I will have been doing. We will have been doing etc.
 Action that will have started, continued for the some time and will still be in progress in the future.
 - i will have been doing (yapmış olacağım, yapacağım, x zamanda yapmış olacağım)
@@ -1280,7 +939,6 @@ Action that will have started, continued for the some time and will still be in 
 ---
 
 # 6 Verbs
-
 
 - A verb is a word we use for an action.
 For example, “take”, “put”, “open”, “close“ etc. are verbs.
@@ -1296,7 +954,6 @@ State verbs doesn't take continuous tense.
 Some verbs are only (or mostly) used in simple tenses, and are not used in continuous tenses. An example of a simple tense is the present simple, or the past simple. An example of a continuous tense is the present continuous or past continuous. These verbs are called stative, or state verbs. A verb which isn’t stative is called a dynamic verb, and is usually an action. Often stative verbs are about liking or disliking something, or about a mental state, not about an action.
 
 ## 6.1 so
-
 
  **"So" - and its many uses**
 
@@ -1367,7 +1024,6 @@ _Resources: Callan Book LESSON-124_
 
 ## 6.2 primary auxiliary verb, modal auxiliary verb
 
-
  **be, have, do:**  primary auxiliaries
 
 - English has two types of auxiliary verb: primary auxiliaries and modal auxiliaries (or “modals“).
@@ -1424,7 +1080,6 @@ When talking about the past, if somebody says that they needn’t have done some
 _Resources: Callan Book LESSON-92-119-121_
 
 ## 6.3 The three forms of a verb
-
 
 Present, Past, Past participle
 
@@ -1506,7 +1161,6 @@ _Resources: Callan Book LESSON-44-51_
 
 ## 6.4 Transitive and intransitive verbs
 
-
 The difference between a transitive verb and an intransitive verb is that a transitive verb has an object, whereas an intransitive verb does not have an object. The verb “to raise“ is transitive; that is, it has an object.
 
 For example, “I (subject) am raising (verb) the book (object)“.
@@ -1519,7 +1173,6 @@ Note that the object of a transitive verb is not always stated. For example, in 
 _Resources: Callan Book LESSON-116_
 
 ## 6.5 Stative verbs
-
 
 Some verbs are only (or mostly) used in simple tenses, and are not used in continuous tenses.
 An example of a simple tense is the present simple, or the past simple.
@@ -1587,13 +1240,11 @@ ref: http://www.perfect-english-grammar.com/support-files/stative-verbs-list.pdf
 
 ## 6.6 Regular verbs
 
-
 calculate
 callearn
 educate
 
 ## 6.7 Irregular Verbs
-
 
 
 | infinitive | past simple | past participle |
@@ -1744,7 +1395,6 @@ educate
 
 ## 6.8 “To be” + infinitive with “to”
 
-
  **“To be” + infinitive with “to”**
 
 In formal English, there are two common uses of the structure “to be“ + infinitive with “to“.
@@ -1766,7 +1416,6 @@ Basically, the verb “to bind“ means “to tie“. For example, to bind a wou
 _Resources: Callan Book LESSON-119_
 
 ## 6.9 Opposites Verbs
-
 
  **Elementary**
 
@@ -1856,7 +1505,6 @@ victory: defeat
 ## 6.10 Actin Verbs, State Verbs
 
 
-
  **### Action Verbs**
 You can start and stop these actons
 
@@ -1918,7 +1566,6 @@ i've been living here for 10 years ---> i've lived here for 10 years.
 
 ## 6.11 Primary Auxiliary Verbs
 
-
  **am, is, are**
  **can, have, has**
  **do, does**
@@ -1935,9 +1582,7 @@ _Resources: Callan Book LESSON-20_
 
 ### 6.11.1 To Be
 
-
 #### To be
-
 
 **am, is, are, was, were, will, shall**
 
@@ -2023,7 +1668,6 @@ I have a red car
 
 ### 6.11.2 Do
 
-
 We use the auxiliary “do“ for the present simple and past simple, for
 example when we say
 “I don’t speak Spanish“ or
@@ -2031,9 +1675,7 @@ example when we say
 
 ### 6.11.3 Have
 
-
 #### Have, Has
-
 
 - yYrdimci fiil olarak kullanilirsa, perfect tense ler olarak kullanilir.
 
@@ -2115,7 +1757,6 @@ Do they have a pen?
 
 #### 6.11.3.1 Present perfect - Present perfect continuous
 
-
 - Present perfect
 
 S + have/has +V3
@@ -2141,7 +1782,6 @@ she has been living here for a year
 He has gone to Scotland
 
 #### 6.11.3.2 Past perfect - Past perfect continuous
-
 
 - Past perfect
 
@@ -2169,7 +1809,6 @@ i/we/you/they had been taking, he/she/it had been taking
 #### 6.11.3.3 Future perfect - Future perfect continuous
 
 
-
 - Future perfect
 
 S + will/shall + have + V3
@@ -2195,7 +1834,6 @@ example:
 by the time i return, she will have been waiting for 2 hrs.
 
 #### 6.11.3.4 have / has
-
 
 - With the verb “have“, we generally use the word “got“ and we say “I’ve got“, “you’ve got“, “he’s got“ etc. We say “I have a pen“ or “I have got a pen“.
 
@@ -2306,9 +1944,7 @@ _Resources: Callan Book LESSON-9-12-22-49_
 
 ## 6.12 Modals Auxiliary Verbs
 
-
 ### 6.12.1 Modal auxiliary for probability
-
 
  **must, might**
 In order to communicate our ideas about how probable we think something is, we often use words such as “sure“, “probably“ or “perhaps“.
@@ -2339,27 +1975,22 @@ _Resources: Callan Book LESSON-146_
 
 ### 6.12.2 Be going to
 
-
 I am going to do
 
 #### Structure
-
 
 Positive  :  S +am/is/are+ going to + V1   (i will have been swiming)
 
 #### Contraction
 
-
 he won't have been swiming (will not)
 
 #### Usage
-
 
 1- future intention
 2- for an indication that something is probable
 
 #### Example
-
 
 1- i'm going to write some letters.
 2- Look at those black clouds. I think it's going to rain.
@@ -2371,12 +2002,9 @@ i'm going to the theatre (planed event)
 ### 6.12.3 Can - could
 
 
-
 #### CAN
 
-
 ##### Uses
-
 
 1- ability / posibility
 2- informal permission
@@ -2385,7 +2013,6 @@ i'm going to the theatre (planed event)
 
 
 ##### PRESENT / FUTURE
-
 
 i can run fast.
 you can use my car tomorrow.
@@ -2396,12 +2023,9 @@ That can't hve been true!
 
 
 
-
 #### COULD
 
-
 ##### Uses
-
 
 1- past ablity
 2- polite request
@@ -2410,7 +2034,6 @@ That can't hve been true!
 5- impossibility (negative only)
 
 ##### PRESENT / FUTURE
-
 
 could i borrow your pen?
 could you help me?
@@ -2421,7 +2044,6 @@ he could be at home.
 That couldn't be true!
 
 ##### PAST
-
 
 i could run fast when i was a child.
 you could have talked to your teacher.
@@ -2454,7 +2076,6 @@ if i was a doctor, i could help people.
 
 #### 6.12.3.1 Could-would be able
 
-
  **Could - Would be able**   
 "Could" is the past of "can", but we can also use "could" instead of "would be able"
 in conditional sentences.
@@ -2480,12 +2101,9 @@ _Resources: Callan Book LESSON-62_
 
 ### 6.12.4 Will - would
 
-
 #### WILL
 
-
 ##### Uses
-
 
 1- 100% certainity
 2- willigness
@@ -2493,7 +2111,6 @@ _Resources: Callan Book LESSON-62_
 
 
 ##### PRESENT / FUTURE
-
 
 he will be her at 6 pm
 (future only)
@@ -2503,9 +2120,7 @@ will you please pass the salt
 
 #### WHOULD
 
-
 ##### Uses
-
 
 1- polite request
 2- reference
@@ -2513,25 +2128,20 @@ will you please pass the salt
 
 ##### PRESENT / FUTURE
 
-
 would you please pass the salt?
 would you mind if i left early?
 i would rather go to the park tahn stay home.
 
 ##### PAST
-
 i would rather have gone to part.
 when i was a child. i would visit my grandparents every weekend
 
 ### 6.12.5 May - might
 
 
-
 #### MAY
 
-
 ##### USES
-
 
 1- polite request
 2- formal permission
@@ -2540,21 +2150,17 @@ when i was a child. i would visit my grandparents every weekend
 
 ##### PRESENT / FUTURE
 
-
 may i borrow your pen?
 you may leave the room.
 Where's John? He may be at the library
 
 ##### PAST
-
 He may have been at the library
 
 
 #### MIGHT
 
-
 ##### Uses
-
 
 1- less than 50% certainty
 2- polite request (rare)
@@ -2562,24 +2168,19 @@ He may have been at the library
 
 ##### PRESENT / FUTURE
 
-
 might i borrow your pen
 Where's John?
 He might be at the library
 
 ##### PAST
-
 he might have been at the library
 
 ### 6.12.6 Shall - should
 
 
-
 #### SHALL
 
-
 ##### USES
-
 
 1- polite request to make a suggestion
 2- future with "I" or we as subject
@@ -2587,39 +2188,32 @@ he might have been at the library
 
 ##### PRESENT / FUTURE
 
-
 shall i open the window?
 i shall arrive at nine?
 (will more common)
 
 ##### PAST
 
-
 -----
 
 #### SHOULD
 
-
 ##### USES
-
 1- advisability
 2- 90% certainity
 (future only, not present)
 
 ##### PRESENT / FUTURE
 
-
 i should study to night
 she should do well on the test.
 
 
 ##### PAST
-
 i should have studied last night
 she should have done well on the test.
 
 ### 6.12.7 Must - ought
-
 
 
 I must study     : i have an obligation, i have no alternative
@@ -2636,9 +2230,7 @@ or when we want to add more information.
 
 #### must
 
-
 ##### USES
-
 
 1- strong necessity
 2- prohibition (negative)
@@ -2647,22 +2239,18 @@ or when we want to add more information.
 
 ##### PRESENT / FUTURE
 
-
 i must go to class today.
 you must not open that door.
 
 Mary isn't in class. She must be sick. (present only)
 
 ##### PAST
-
 I had to go to class yestarday
 Mery must have been sick yesterday.
 
 #### ought
 
-
 ##### Uses
-
 
 1- advisabilty
 2- 90% certainty
@@ -2670,12 +2258,10 @@ Mery must have been sick yesterday.
 
 ##### PRESENT / FUTURE
 
-
 i ought to study tonight
 she ought to do well on the test (future only, not present)
 
 ##### PAST
-
 i ought to have studied last night.
 she should have done well on the test.
 
@@ -2684,7 +2270,6 @@ she should have done well on the test.
 
 
 #### 6.12.7.1 Must / Should / Have to
-
 
  **Must / Should**
 I must study     : i have anobligation, i have no alternative
@@ -2715,12 +2300,9 @@ _Resources: Callan Book LESSON-61_
 
 ### 6.12.8 have to - have got to
 
-
 #### Have to
 
-
 ##### USES
-
 
 1- necessity
 2- lack of necessity (negative)
@@ -2728,95 +2310,75 @@ _Resources: Callan Book LESSON-61_
 
 ##### PRESENT / FUTURE
 
-
 i have to go to class today
 i don't have to go to class
 
 ##### PAST
-
 i had to go to class yesterday
 i didn't have to go to class yesterday.
 
 
 #### have got to
 
-
 ##### USES
-
 
 1- necessity
 
 
 ##### PRESENT / FUTURE
 
-
 i have got to go to class today
 
 
 ##### PAST
-
 i had to go to class yesterday
 
 ### 6.12.9 be to - be supposed to
 
-
 #### be  to
 
-
 ##### USES
-
 
 1- strong expectation
 
 
 ##### PRESENT / FUTURE
 
-
 you are to be here at 9:00
 
 ##### PAST
-
 you were to be here at 9:00
 
 
 #### be supposed to
 
-
 ##### USES
-
 
 1- expectation
 
 
 ##### PRESENT / FUTURE
 
-
 class is supposed to begin at 10.
 
 ##### PAST
-
 class was supposed to begin at 10.
 
 ### 6.12.10 had better
 
 
-
 #### had better
 
-
 ##### USES
-
 
 1- advisability with threat of bad result
 
 
 ##### PRESENT / FUTURE
 
-
 you had better be on time, or we will leave without you.
 
 ##### PAST
-
 He may have been at the library
 
 
@@ -2829,34 +2391,26 @@ He may have been at the library
 
 ### 6.12.11 be able to
 
-
 #### be able to
 
-
 ##### USES
-
 
 1- ability
 
 
 ##### PRESENT / FUTURE
 
-
 i am able to help you
 i will be  able to help you
 
 ##### PAST
-
 i was able to help him.
 
 ### 6.12.12 used to
 
-
 #### used to
 
-
 ##### USES
-
 
 1- repeated action (in the past)
 
@@ -2864,14 +2418,11 @@ i was able to help him.
 ##### PRESENT / FUTURE
 
 
-
 ##### PAST
-
 
 i used to visit my grandparents every weekend.
 
 ## 6.13 Imperatives
-
 
  **Imperatives:**
 take, put, open, close, please etc.
@@ -2886,7 +2437,6 @@ For example, we say “Go away!“ For a negative imperative, we put the word
 
 
 ## 6.14 Go, get, Make or Do
-
 
  **Make or Do**
 
@@ -2904,7 +2454,6 @@ do  housework
 do exercise
 
 ## 6.15 Strong and weak pronunciation forms
-
 
  **can**
  **than**
@@ -2930,7 +2479,6 @@ _Resources: Callan Book LESSON-141_
 
 ## 6.16 "Will" and "would" for habits
 
-
 We usually use the word “will“ to speak about the future, but we can also use it for a present habit, especially when we want to communicate that the habit is typical of a particular person.
 For example, we can say “Most people here finish work at about 6 p.m., but Frank will stay at the office until 11 p.m. most days“. If we are speaking about a past habit, we use “would“ instead.
 For example, “When I was at university, I would get up at 5 a.m. every day and go jogging“.
@@ -2945,9 +2493,7 @@ _Resources: Callan Book LESSON-xxx_
 
 # 7 Conditionals - if and wish
 
-
 ## 7.1 1st Conditional, 2nd Conditional
-
 
  **1st Conditional**
 
@@ -3015,7 +2561,6 @@ _Resources: Callan Book LESSON-60-63-77_
 
 ## 7.2 wish
 
-
  **wish **
 
 We use the verb “wish” to communicate the idea that we would like things to be different from the way they in fact are now, or were in the past.
@@ -3044,9 +2589,7 @@ _Resources: Callan Book LESSON-126_
 
 # 8 Passive
 
-
 ## 8.1 Active/ Passive voice
-
 
  **Active voice  :** subject does the action
  **Passive voice:** subject receive the action
@@ -3076,11 +2619,9 @@ _Resources: Callan Book LESSON-66_
 
 ### 8.1.1 Question words
 
-
  **When we use question words, for example “what“, “which“ and “where“, we put the preposition last in the sentence. For example, we do not say “From where do you come?“; we say “Where do you come from?“ We do not say “On what are you putting the book?“; we say “What are you putting the book on?“**
 
 ## 8.2 Uses of the passive voice
-
 
  **Uses of the passive voice**
 
@@ -3101,9 +2642,7 @@ _Resources: Callan Book LESSON-143_
 
 # 9 Reported speech
 
-
 ## 9.1 Tell, say
-
 
 The most important difference between “tell“ and “say“ is that after “tell“ we indicate the person we are speaking to, but after “say“ we usually do not.
 
@@ -3120,7 +2659,6 @@ With indirect speech, we can use either “say“ or “tell“, but we must use
 _Resources: Callan Book LESSON-91_
 
 ## 9.2 Direct speech and indirect speech
-
 
 Direct speech and indirect speech
 
@@ -3187,7 +2725,6 @@ _Resources: Callan Book LESSON-84_
 
 ## 9.3 Direct/indirect speech
 
-
  **indirect speech with questions, imperatives and requests**
 
  **Questions:**
@@ -3204,7 +2741,6 @@ If the question does not contain a question word (“what”, “where” etc.),
 _Resources: Callan Book LESSON-107_
 
 ## 9.4 imperatives, command
-
 
  **imperatives, command**
 When we change an imperative from direct into indirect speech, we use “told”, “commanded” or “ordered”, and we use the infinitive with “to” instead of the imperative. For example,
@@ -3232,7 +2768,6 @@ _Resources: Callan Book LESSON-107_
 
 # 10 some in questions
 
-
 We sometimes use the words “some“, “somebody“ and “something“ in questions instead of
 the usual “any“, “anybody“ and “anything“. We generally do this when we expect a positive answer, and especially when we offer something to somebody.
 For example, “Would you like some more tea?“; “Is there somebody here you’re looking for?“; “Would you like me to buy you something nice for Christmas?“ etc.
@@ -3246,14 +2781,11 @@ _Resources: Callan Book LESSON-140_
 
 # 11 Questions
 
-
 ## 11.1 Making Questions
-
 
 **soru yaparken dikkat edilmesi gerfeken konular.**
 
 #### Verb "to be"
-
 - just move the auxilary before the subject
 
 - It is common. Is it common
@@ -3263,14 +2795,12 @@ _Resources: Callan Book LESSON-140_
 - i must find it, must i find it.
 
 #### Modal Verbs
-
 joe can drive, dan jou drive
 she could stay, cold she stay
 we should stop. should we stop
 you would like some tea, would you like some tea
 
 #### Auxilary Verbs
-
 - She is looking for a pen --> Is she looking for a pen?
 - We are going to start. Are we going to start?
 - they were leaving when he arrived, were they leaving when he arrived?
@@ -3279,7 +2809,6 @@ you would like some tea, would you like some tea
 - prices will fall. will prices fall?
 
 #### When you can not see the auxilary verb
-
 asagidaki cumlede ana fiil ve yardimci fiilin karistirilmamasi lazim.
 soru yaparken yardimci fiil basa gelir.
 - We have a deal, Do we have a deal?
@@ -3287,7 +2816,6 @@ soru yaparken yardimci fiil basa gelir.
 - they went to the museum, did they went to the museum?
 
 #### Question words;
-
 Who,
 What
 Where
@@ -3317,13 +2845,11 @@ ornek;
 
 #### Who and What as subject
 
-
 - John knows the way, who knows the way
 - The wind damaged the building. What damaged the building.
 
 
 ## 11.2 How to make a question
-
 
  **How to make a question**
 To make a question with the present simple and the past simple, we use the auxiliary verb “do”.
@@ -3339,7 +2865,6 @@ making a question videosunu izleyip burayi doldur, angolo link
 _Resources: Callan Book LESSON-97-99_
 
 ## 11.3 Tail questions
-
 
  **Tail questions**
 
@@ -3369,7 +2894,6 @@ Instead of the verb “to have“ we can use the verb “to get“. For example,
 _Resources: Callan Book LESSON-89_
 
 ## 11.4 Short answers
-
 
 Yes, I can
 Yes, I would
@@ -3403,7 +2927,6 @@ _Resources: Callan Book LESSON-83_
 
 ## 11.5 So would i,neither can he, nor should they
 
-
  **so would i, neither can he, nor should they**
 We put the words “so”, “neither” or “nor” at the beginning of a sentence when someone makes a statement and we want to reply that the same situation is true for us or somebody else.
 
@@ -3421,7 +2944,6 @@ _Resources: Callan Book LESSON-101_
 
 
 ## 11.6 what and which
-
 
 We generally use “which“ when we are considering a limited number of alternatives, whereas
 we use “what“ in a more unlimited sense.
@@ -3457,7 +2979,6 @@ _Resources: Callan Book LESSON-136_
 
 ## 11.7 Question without the question form
 
-
  **Who helped you?**
 
 When asking a question in English, we do not always use the question form.
@@ -3471,7 +2992,6 @@ For example, the sentence “I broke the piece of wood“ could mean that I brok
 _Resources: Callan Book LESSON-138_
 
 # 12 gerund, infinitive
-
 
 - Gerund and infinitive: makes noun from verb
 - Each sentences contains only one verb,
@@ -3515,7 +3035,6 @@ _Resources: Callan Book LESSON-33-129_
 
 ## 12.1 rather, would rather, would prefer to
 
-
  **rather: oldukca**
 Would you say, you spoke English rather well now?
 
@@ -3534,7 +3053,6 @@ _Resources: Callan Book LESSON-79_
 ## 12.2 Common uses of the gerund
 
 
-
  **Common uses of the gerund**
 
 Three common uses of the gerund are:
@@ -3551,14 +3069,12 @@ _Resources: Callan Book LESSON-150_
 
 # 13 Nouns and Articles
 
-
 - A noun is the name of a thing.
 For example, “book”, “picture”, “wall“ etc. are nouns.
 - The word “translate“ is a verb, whereas the word “translation“ is a noun.
 - The word “mean“ is a verb, whereas the word “meaning“ is a noun.
 
 ## 13.1 Words not used in the plural
-
 
  **knowledge, progress, item, encyclopedia**
 
@@ -3597,7 +3113,6 @@ _Resources: Callan Book LESSON-117-118_
 
 ## 13.2 Plural and singular nouns
 
-
  **Each:**  is a singular
 We say “each student is sitting”, not “each student are sitting” – the word “each“ is singular.
 
@@ -3610,7 +3125,6 @@ After the words “one of the ...“, we use a plural noun.
 For example, “Paris is one of the largest **cities**  in Europe“.
 
 ## 13.3 infinitive and gerund
-
 
 
 
@@ -3678,7 +3192,6 @@ think of
 (ex) I looked forward to meeting my old friend.
 
 ## 13.4 The, a
-
 
  **The: Definite article**
  **A, an: Indefinite article**
@@ -3755,7 +3268,6 @@ _Resources: Callan Book LESSON-7-118-123-125-131_
 
 ## 13.5 making verb
 
-
  **dark – darken**
  **short – shorten**
 
@@ -3773,7 +3285,6 @@ say “to make smaller“
 _Resources: Callan Book LESSON-85_
 
 ## 13.6 Noun (or pronoun) + infinitive with “to”
-
 
 When a noun (or pronoun) is followed by an infinitive with “to“, it is similar to a relative clause.
 For example, “I have a lot of work to do“ means the same as “I have a lot of work that I must do“.
@@ -3796,7 +3307,6 @@ _Resources: Callan Book LESSON-148_
 
 ## 13.7 "Any” and “some” with singular countable nouns
 
-
  **"Any” and “some” with singular countable nouns**
 
 When we use the word “any“ in front of a singular countable noun, it means “it’s not important which“.
@@ -3812,9 +3322,7 @@ _Resources: Callan Book LESSON-152_
 
 # 14 Pronouns and Determiners
 
-
 ## 14.1 Reflexive pronouns
-
 
  **myself,**
  **yourself,**
@@ -3835,7 +3343,6 @@ _Resources: Callan Book LESSON-68_
 
 ## 14.2 Emphasizing pronouns
 
-
 Sometimes, we use the words “myself”, “yourself”, “himself” etc. when we want to emphasize information about who does the action in a particular sentence. For example, the difference between the sentences “John cooked the meal” and “John cooked the meal himself” is that the second sentence emphasizes that it was John who cooked the meal and not someone else. In this sentence, we call the word “himself” an emphasizing pronoun. Notice that the emphasizing pronouns are the same words as the reflexive pronouns.
 
 Sometimes we use an emphasizing pronoun with the meaning of “alone” or “without any help”, in which case we generally put the word “by” in front of it. For example, “I did the translation myself” emphasizes the fact that I did the translation and not someone else, whereas “I did the translation by myself” means that I did the translation alone, without any help.
@@ -3844,9 +3351,7 @@ _Resources: Callan Book LESSON-109_
 
 # 15 Relative clauses
 
-
 ## 15.1 Relative clauses, Relative pronouns
-
 
  **- Relative clauses (1) :**
 I have a **black cat (adjective)**
@@ -3910,7 +3415,6 @@ _Resources: Callan Book LESSON-101_
 
 ## 15.2 Preparatory
 
-
  **Preparatory "it"**
 it is + adjective + infinitive with "to"
 
@@ -3923,7 +3427,6 @@ With a preparatory “it”, we generally use the structure “It is” + adject
 _Resources: Callan Book LESSON-103_
 
 # 16 Adjectives
-
 
  **Using nouns as adjectives**
 We can often use a noun as an adjective in English simply by putting it immediately before another noun, as in the expression “train station“. When we do this, the word “train“ becomes an adjective to describe the noun “station“. For example, a shoe shop is a shop; the word “shoe“ tells us what it sells. A book cover is a cover for a book.
@@ -3957,7 +3460,6 @@ For example, “I was surprised to hear the news“ means that the news surprise
 _Resources: Callan Book LESSON-127_
 
 ## 16.1 Comparatives, Superlatives
-
 
  **Comparative (-er)**
 - "-er" for one syllable, cheap-cheaper than- the cheapest
@@ -4073,7 +3575,6 @@ _Resources: Callan Book LESSON-25-26-27-28-29-32_
 
 ## 16.2 Possessive adjectives-Poseessive pronouns
 
-
  **Adjectives**
 The words “black“, “white“, “large“, “small“, “high“, “low“ etc. are adjectives. In English, we put adjectives before or after a nouns.
 
@@ -4131,9 +3632,7 @@ _Resources: Callan Book LESSON-17_
 
 # 17 Adverbs
 
-
 ## 17.1 Adverbs formed from adjectives
-
 
  **Adverbs formed from adjectives**
 
@@ -4145,7 +3644,6 @@ etc.
 _Resources: Callan Book LESSON-77_
 
 ## 17.2 Adverbs of frequency
-
 
 Some common adverbs of frequency are:“never”, “rarely”, “occasionally”, “sometimes”, “often”, “usually” and “always”. These adverbs normally go after the first auxiliary verb. For example, “I have never been to Australia” or “He will always love her”.
 
@@ -4159,7 +3657,6 @@ _Resources: Callan Book LESSON-106_
 
 # 18 Conjunctions and prepositions
 
-
  **Conjunction:**  is a word that joins clauses together to make long sentences.
 Some common conjunctions are words like “and”, “because”, “but”, “so” and “if”.
 The sentence “You can borrow my car” has only one clause.
@@ -4167,7 +3664,6 @@ The sentence “You can borrow my car if you promise to be careful” contains t
 
 
 ## 18.1 Preposition (on,under,in,from etc.)
-
 
  **Putting prepositions at last in questions**
 
@@ -4189,7 +3685,6 @@ _Resources: Callan Book LESSON-15-17_
 
 ## 18.2 in spite of/ despite
 
-
  **in spite of, despite**
 
 “In spite of” and “despite” both mean the same as “although”, but they are prepositions, so we put nouns after them.
@@ -4207,7 +3702,6 @@ _Resources: Callan Book LESSON-72_
 
 # 19 Phrasal verbs
 
-
  **Phrasal verb**
 
 The English language contains many phrasal verbs. A phrasal verb is a phrase consisting of a verb with one or two other words after it. The meaning of a phrasal verb is often not clear at all from simply looking at the verb. One example of this is “give up”, meaning to stop a habit. The meaning has no obvious connection with the idea of giving – you need to learn it separately. Other examples of phrasal verbs are “get along with”, meaning to have a good relationship with someone, and “set up”, meaning to start an organization.
@@ -4223,7 +3717,6 @@ When we put the word “well” immediately after the modals “may”, “might
 _Resources: Callan Book LESSON-164_
 
 # 20 Sentence Pattern
-
 
 - Basic sentence structure:
 
@@ -4356,7 +3849,6 @@ http://englishwithjennifer.com/students/interactive-exercises/
 
 ## 20.1 “The” + comparative ..., “the” + comparative ...
 
-
  **"The” + comparative ..., “the” + comparative ...**
  **the sooner ..., the better**
 
@@ -4368,7 +3860,6 @@ For example, “The colder it is, the more clothes I wear“ means that I wear l
 _Resources: Callan Book LESSON-140_
 
 # 21 Vocabulary
-
 
  **Cardinal Numbers / Ordinal Numbers**
 Cardinal numbers are: 1,2,3,4 ...
@@ -4383,6 +3874,7 @@ semi colon ;
 comma ,
 exclamation !
 inverted comma "
+brackets ( )
 
 
  **Capital letters:**
@@ -5321,7 +4813,6 @@ If we have a dozen books, for example, it means we have twelve books. If we have
 
 # 22 Idioms
 
-
  **1- hang on = wait**
  Hang on a minute while I go and get my coat from the next room.
 
@@ -5462,7 +4953,6 @@ Now that I know the results at last, it’s a load off my mind.
 
 # 23 Suffix, Prefix
 
-
  **- ing**
 
 
@@ -5480,7 +4970,6 @@ We can also use the suffix “-ish“ to mean “about“ when we say a time of 
 
 ## 23.1 Change of spelling with comparison of adjectives
 
-
 When an adjective ends in a single consonant preceded by a single vowel, the consonant is doubled when we form the comparative and superlative. For example,“big – bigger than – the biggest“.
 
 When an adjective ends in a consonant plus “y“, the “y“ is changed to “i“. For example, “happy – happier than – the happiest“.
@@ -5488,7 +4977,6 @@ When an adjective ends in a consonant plus “y“, the “y“ is changed to �
 _Resources: Callan Book LESSON-94_
 
 ## 23.2 S suffix
-
 
  **1. -s -es (plural)**
  **- Çoğul yapmak için kullanılır. -s ve -es olarak isim sonuna eklenir. tırnak kullanılmadan eklenir.**
@@ -5535,7 +5023,6 @@ However, for things, we generally communicate possession by using the word “of
 
 ## 23.3 "-ed" Pronunciation
 
-
  **"-ed" Pronunciation**
 
 - When the past tense of a regular verb ends in the leters "ded" or "ted"
@@ -5552,7 +5039,6 @@ _Resources: Callan Book LESSON-95_
 
 ## 23.4 Doubling consonants
 
-
  **Doubling consonants, Suffix**
 Sometimes, we need to double the final consonant of a word before we can add a suffix beginning with a vowel.
 We do this when a word of one syllable ends in a single consonant preceded by a single vowel. For example, “big – bigger“, “hit – hitting“, “fit – fitted“ etc.
@@ -5568,7 +5054,6 @@ Some other uses of “take“ are “take a holiday“, “take a break“, “t
 _Resources: Callan Book LESSON-130_
 
 ## 23.5 Common verb suffixes
-
 
  **LESSON-172**
 
@@ -5591,7 +5076,6 @@ kettle alarm wrinkle glue blister hood canteen jug label heel frost monster ant 
 
 
 ## 23.6 Common prefixes
-
 
  **LESSON-177**
 
@@ -5630,9 +5114,7 @@ Another  ve common pre xes used in English are: “pro-” (meaning “for” or
 
 # 24 Quantity
 
-
 ## 24.1 Any/Some - Many/Specific
-
 
 - The meaning of “any“ and “some“ is “birkac“, but we use “any“ in questions and negative sentences, and “some“ in positive sentences.
 For example, we say
@@ -5678,7 +5160,6 @@ _Resources: Callan Book LESSON-9_
 
 ## 24.2 anybody, somebody, nobody
 
-
 - Both “anybody“ and “somebody“ mean “...“. We use “anybody“ in questions and negative sentences, and “somebody“ in positive sentences.
 For example, we say
 “Is thereanybody sitting here? Yes, there’ssomebody sitting here. (positive answer: somebody)
@@ -5711,7 +5192,6 @@ The negative of "can" is "cannot", and contraction of "cannot" is "can't"
 _Resources: Callan Book LESSON-13-16-19_
 
 ## 24.3 Many, much, few little, a lot of
-
 
  **many      more .... than        the most**
  **few         fewer .... than       the fewest**
@@ -5763,7 +5243,6 @@ _Resources: Callan Book LESSON-23-24-26_
 
 # 25 Clause and Phrase
 
-
  **Clause:**  clause is short sentences it have always S+V and it have meaning
   - independent clause: it can standalone
   - dependent clause : we don't use alone
@@ -5771,7 +5250,6 @@ _Resources: Callan Book LESSON-23-24-26_
  **Phrase:**  combined words, it hasn't meaning alone, it has not S and V
 
 ## 25.1 Clauses, Conjunction, Phrases
-
 
  **Clauses:**
 A clause is any group of words with asubjectand averb.
@@ -5807,7 +5285,6 @@ _Resources: Callan Book LESSON-99_
 
 ## 25.2 Time clause, Conditional clause
 
-
  **Time Clause, Conditional clause**
 Two common types of dependent clause are time clauses and conditional clauses.
 
@@ -5823,7 +5300,6 @@ We must remember that we cannot use future tenses in time clauses and conditiona
 _Resources: Callan Book LESSON-108_
 
 # 26 Embedded Questions
-
 
  **# Embedded questions**
 
@@ -5844,7 +5320,6 @@ What I like is the surprise.
 Do you want to find outwhat's inside?
 
 # 27 Practicing
-
 
 Burada bir fiil kullanilarak asagidaki tum cumle turleri kurulacak ve yazilacak
 
@@ -6300,7 +5775,6 @@ Do they have a pen?
 
 # 28 Pronunciation
 
-
 https://www.youtube.com/watch?v=IJPdR7Kbl9k
 
 - going to = gonna
@@ -6320,7 +5794,6 @@ https://www.youtube.com/watch?v=IJPdR7Kbl9k
 - Musta
 
 # 29 Sorulara cevap vermek
-
 
 Soru sorulduğunda dikkat edilmesi gereken konular.
 
@@ -6359,7 +5832,6 @@ what's the comperative of "long"?  --> longer is the comperetive of long.
 
 
 # 30 Kısaltmalar - contraction
-
 
 - tirnak ' ile ayirma islemi sadece kisalmalarda kullanilir, iyelik ve cogul eklerinde tirnak kullanilmaz.
 - çoğullarda "are" kullanılır tekillerde "is" kullanılır.
@@ -6415,7 +5887,6 @@ i can not - i can't
 
 # 31 Cümle kurmak
 
-
 Cümle kurarken dikkat edilmesi gereken konular.
 
 - Bazen subject iki kelimeden oluşabilir. "your nose" burada şimdiki zamanı karşıtırmamak lazım
@@ -6468,7 +5939,6 @@ About how many things are there in this room?
 About how many pages are there in this book?
 
 # 32 Kelimeler ve kullanım şekilleri
-
 
 -- these, those (bunlar, onlar)
      çoğul olduğunda are kullanılır.
@@ -6547,7 +6017,6 @@ is there anybody in this room wearing a hat, no there isn't anybody ....
 
 # 33 ToolBox
 
-
 konusmalarda
 hemen hazir olarak kullanilabilecek cumle kaliplarini ezberle
 
@@ -6556,7 +6025,6 @@ when the lesson end.
 .......  the film end.
 
 ## 33.1 Synonyms & Antonyms
-
 
 http://www.english-for-students.com/Synonyms.html
 
@@ -6668,7 +6136,6 @@ decide, consider
 up to 4 o'clock, so far, for 4 hours, since 4 p.m.
 
 ## 33.2 Useful Questions
-
 
  **USEFULL QUESTIONS**
 
@@ -6815,7 +6282,6 @@ There are about 79 million people in my country
 
 ## 33.3 Sentences
 
-
 - how are yo doging?
 - i'am great thank you: ben harikayim, tesekkurler.
 - i am doing well : iyiyim
@@ -6836,9 +6302,7 @@ There are about 79 million people in my country
 # 34 Pronetic Alphabet- IPA
 
 
-
 ### Vowels
-
 
 ı  = i
 ı: = ii
@@ -6866,16 +6330,13 @@ aı  = ai
 ### Consanant
 
 
-
 ɵ  = peltek s
 ∫   = şş
 d3 = CI
 
-## #
-
+###
 
 # 35 Make a suggestion
-
 
  **Making a suggestion**
 
@@ -6889,7 +6350,6 @@ Here are four common ways in which we can make a suggestion:
 _Resources: Callan Book LESSON-86_
 
 # 36 titles- sir,madam,gentleman,lady,mr,mrs
-
 
 to be polite: ** sir, madam, gentleman @**  army, school, shops
  **Mr, bay**
@@ -6909,7 +6369,6 @@ Some people have other titles, such as “Sir“ and “Lady“. For example “
 _Resources: Callan Book LESSON-67_
 
 # 37 Emphatic Do
-
 
 - As you already know,
 we use the auxiliary verb “do“ for the present simple, but only in questions and negative sentences;
@@ -6945,7 +6404,6 @@ _Resources: Callan Book LESSON-80_
 
 # 38 Formal letters, emails
 
-
 In a formal letter or email, we begin with the words “Dear Sir” or “Dear Madam” if we do not know the name of the person we are writing to. We generally end such a letter or email with “Yours faithfully”, or something less formal like “Kind regards” or “Best regards”.
 
 If we do know the name of the person we are writing to, we begin with “Dear (Name)” and we can end with the words “Yours sincerely” or, again, “Kind regards” or “Best regards”.
@@ -6955,7 +6413,6 @@ In an informal letter or email, we usually begin with the words “Dear (Name)�
 _Resources: Callan Book LESSON-111_
 
 # 39 discuss, argue, quarrel
-
 
  **discuss, discussion,**
  **argue, argument**
@@ -6991,7 +6448,6 @@ _Resources: Callan Book LESSON-119_
 
 # 40 Giving, asking for opinions
 
-
  **in my view**
  **from my point of view**
  **if you ask me**
@@ -7002,7 +6458,6 @@ There are various expressions we can use to give an opinion in English. We alrea
 _Resources: Callan Book LESSON-134_
 
 # 41 Communicating general beliefs and opinions
-
 
  **Communicating general beliefs and opinions**
 
@@ -7022,9 +6477,7 @@ _Resources: Callan Book LESSON-152_
 
 # 42 Writing
 
-
 ## 42.1 General advice for writing
-
 
  **LESSON-166**
 
@@ -7061,7 +6514,6 @@ I returned to your store on 25th November but I was informed by a member of staf
 
 ## 42.2 Writing an informal letter or email
 
-
  **LESSON-170**
 
  **Writing an informal letter or email**
@@ -7090,7 +6542,6 @@ Isabel
 
 
 ## 42.3 Writing a cover letter
-
 
  **LESSON-171**
 
@@ -7133,7 +6584,6 @@ Michael White
 
 ## 42.4 Writing a report
 
-
 LESSON-176
 
 Writing a report
@@ -7172,7 +6622,6 @@ At present, the walls of the shop are dark blue, and the shelves are black. Over
 
 ## 42.5 Emphasis: Inversions after negative or limiting adverbials
 
-
  **LESSON-167**
 
  **Emphasis: Inversions after negative or limiting adverbials**
@@ -7209,7 +6658,6 @@ knit grieve punch dial tease spray prohibit illustrate dominate stab yell loathe
 
 
 ## 42.6 the bigger... the more....
-
 
  **LESSON-178**
 
@@ -7248,7 +6696,6 @@ The verb “instruct” means “teach” but is generally used to describe teac
 
 
 ## 42.7 Writing a story
-
 
  **LESSON-180**
 
@@ -7293,7 +6740,6 @@ The turnover of a company is the value of the goods and services that the compan
 
 ## 42.8 in prison, to church, at university
 
-
  **LESSON-181**
 
  **in prison, to church, at university**
@@ -7331,7 +6777,6 @@ Some examples of such nouns are “greatness”, “enjoyment”, “acceptance�
 
 
 ## 42.9 Writing an essay
-
 
  **LESSON-185**
 
@@ -7390,7 +6835,6 @@ awe
 If someone is speaking so quietly and unclearly that we can’t understand them properly, we say they are mumbling, and we might ask them to speak more clearly. If someone is speaking quietly to themselves, we say they are muttering. People often mutter when they’re complaining to themselves about something.
 
 ## 42.10 Writing an article
-
 
 LESSON-187
 
@@ -7459,7 +6903,6 @@ When we’re comparing things, we can put “not nearly”, “nowhere near” o
 
 ## 42.11 Reduced relative clauses
 
-
  **LESSON-189**
 
  **Reduced relative clauses**
@@ -7484,7 +6927,6 @@ Also note that, when we reduce a relative clause, we can only omit the verb “b
 Some common suf xes we use to form adjectives are: “-al”, “-ive”, “-ous”, “-ic”, “-y”, “-able” and “-ible”. Some examples of such adjectives are “experimental”, “progressive”, “poisonous”, “melodic”, “sleepy”, “predictable” and “reversible”.
 
 ## 42.12 Writing a review
-
 
  **LESSON-191**
 
@@ -7524,12 +6966,12 @@ Overall, Porthole is a great new place. If you like restaurants with a lively at
 
 # 43 Fixed phrases
 
-
  **# Fixed Phrases**
 
 - before that
 - as we know, as you now,  As you already know etc.
 - as i mentioned
+- as i thought
 
  **## Basic greetings**
 - How are you?
@@ -7538,7 +6980,11 @@ Overall, Porthole is a great new place. If you like restaurants with a lively at
 - Good thanks. How are things with you?
 - What about you?
 - Where do you come from
--
+- it's good to see you again, it's nice to see you again
+- we've never met before
+- with pleasure
+- the pleasure is ours (o zevk bize ait)
+
 
  **## Making requests**
 
@@ -7572,8 +7018,19 @@ Overall, Porthole is a great new place. If you like restaurants with a lively at
 - keep us warm, keep us strong...
 - What do you think? Should I keep it? Should I change it?
 - So how does that sound? Sound good?
+- Have you been there? Have you ever been to California
+- Have you ever done ...
+- How long have you been....teaching, studying etc.
+- Why are you looking at me like that
+- What have you done?
+- What have you been doing since we last met
 
 
 ## **Giving information**
-
 - I have started it but not finished it yet. I'm the middle of doing it. (He has started it but he's not finished yet, He is the middle of reading it.)
+
+
+ **## Feeling**
+
+- I was expecting
+- I don't feel well.
