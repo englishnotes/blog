@@ -1,4 +1,4 @@
-markdown: redcarpet
+
 environment: production
 baseurl: /blog
 permalink: pretty
