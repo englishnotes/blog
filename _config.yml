@@ -7,3 +7,5 @@ collections:
   downloads:
     output: true
     permalink: /downloads/:path/
+
+theme: jekyll-theme-cayman
