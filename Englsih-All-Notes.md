@@ -1,17 +1,200 @@
  ENGLISH
 
 Table of contents
-[toc]
-Yazan: Atilla Tanrikulu
-Buradaki anlatim, birkac kitaptan cikardigim ozetten ibarettir.
+<!-- TOC depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [1 Tenses Summary](#1-tenses-summary)
+	- [1.1 Tenses Chart-1](#11-tenses-chart-1)
+	- [1.2 Tenses Chart-2](#12-tenses-chart-2)
+- [2 Present Tenses](#2-present-tenses)
+	- [2.1 Present Simple](#21-present-simple)
+	- [2.2 Present Continuous](#22-present-continuous)
+		- [**Examples**](#examples)
+	- [2.3 Present Perfect](#23-present-perfect)
+		- [Usage (Action completed at the time of speaking )](#usage-action-completed-at-the-time-of-speaking-)
+		- [Example](#example)
+	- [2.4 Present Perfect Continuous](#24-present-perfect-continuous)
+		- [**Usage (action started in the past, is still in progress)**](#usage-action-started-in-the-past-is-still-in-progress)
+- [3 Past Tenses](#3-past-tenses)
+	- [3.1 Past Simple](#31-past-simple)
+		- [**Usage (Action completed at the specific time in the past)**](#usage-action-completed-at-the-specific-time-in-the-past)
+	- [3.2 Past Continuous](#32-past-continuous)
+		- [**Usage**](#usage)
+	- [3.3 Past Perfect](#33-past-perfect)
+		- [**Usage**](#usage)
+		- [**Examples**](#examples)
+	- [3.4 Past Perfect Continuous](#34-past-perfect-continuous)
+		- [**Usage**](#usage)
+- [4 Future Tenses](#4-future-tenses)
+	- [4.1 Future Simple](#41-future-simple)
+		- [**Usage**](#usage)
+		- [**Be going to**](#be-going-to)
+		- [Examples](#examples)
+		- [“Will”  vs  “to be going to”](#will-vs-to-be-going-to)
+		- [WILL](#will)
+		- [TO BE GOING TO](#to-be-going-to)
+	- [4.2 Future Continuous](#42-future-continuous)
+		- [**Usage**](#usage)
+	- [4.3 Future Perfect](#43-future-perfect)
+		- [**Usage**](#usage)
+	- [4.4 Future Perfect Continuous](#44-future-perfect-continuous)
+		- [**Usage**](#usage)
+- [5 Tenses usage review](#5-tenses-usage-review)
+	- [**Present Tense**](#present-tense)
+		- [**Present Simple : S + V1**](#present-simple-s-v1)
+		- [**Present Continuous : S + am,is,are + Ving**](#present-continuous-s-amisare-ving)
+		- [**Present Perfect : S+ have,has + V3**](#present-perfect-s-havehas-v3)
+		- [**Present Perfect Continuous : S + have, has + been + Ving**](#present-perfect-continuous-s-have-has-been-ving)
+	- [**Past Tense**](#past-tense)
+		- [**Past Simple : S + V2**](#past-simple-s-v2)
+		- [**Past Continuous : S + was,were + Ving**](#past-continuous-s-waswere-ving)
+		- [** Past Perfect : S + had + V3**](#-past-perfect-s-had-v3)
+		- [**Past Perfect Continuous : S+ had been + Ving**](#past-perfect-continuous-s-had-been-ving)
+	- [**Future Tense**](#future-tense)
+		- [**Future Simple : S+ will, shall + V**](#future-simple-s-will-shall-v)
+		- [**Be going to**](#be-going-to)
+		- [**Future Continuous : S + will, shall + be + Ving**](#future-continuous-s-will-shall-be-ving)
+		- [**Future Perfect : S+ will have + V3**](#future-perfect-s-will-have-v3)
+		- [**Future Perfect Continuous : S + will have been + Ving**](#future-perfect-continuous-s-will-have-been-ving)
+- [6 Verbs](#6-verbs)
+	- [6.1 so](#61-so)
+	- [6.2 primary auxiliary verb, modal auxiliary verb](#62-primary-auxiliary-verb-modal-auxiliary-verb)
+	- [6.3 The three forms of a verb](#63-the-three-forms-of-a-verb)
+	- [6.4 Transitive and intransitive verbs](#64-transitive-and-intransitive-verbs)
+	- [6.5 Stative verbs](#65-stative-verbs)
+	- [6.6 Regular verbs](#66-regular-verbs)
+	- [6.7 Irregular Verbs](#67-irregular-verbs)
+	- [6.8 “To be” + infinitive with “to”](#68-to-be-infinitive-with-to)
+	- [6.9 Opposites Verbs](#69-opposites-verbs)
+	- [6.10 Actin Verbs, State Verbs](#610-actin-verbs-state-verbs)
+	- [6.11 Primary Auxiliary Verbs](#611-primary-auxiliary-verbs)
+		- [6.11.1 To Be](#6111-to-be)
+		- [6.11.2 Do](#6112-do)
+		- [6.11.3 Have](#6113-have)
+	- [6.12 Modals Auxiliary Verbs](#612-modals-auxiliary-verbs)
+		- [6.12.1 Modal auxiliary for probability](#6121-modal-auxiliary-for-probability)
+		- [6.12.2 Be going to](#6122-be-going-to)
+		- [6.12.3 Can - could](#6123-can-could)
+		- [6.12.4 Will - would](#6124-will-would)
+		- [6.12.5 May - might](#6125-may-might)
+		- [6.12.6 Shall - should](#6126-shall-should)
+		- [6.12.7 Must - ought](#6127-must-ought)
+		- [6.12.8 have to - have got to](#6128-have-to-have-got-to)
+		- [6.12.9 be to - be supposed to](#6129-be-to-be-supposed-to)
+		- [6.12.10 had better](#61210-had-better)
+		- [6.12.11 be able to](#61211-be-able-to)
+		- [6.12.12 used to](#61212-used-to)
+	- [6.13 Imperatives](#613-imperatives)
+	- [6.14 Go, get, Make or Do](#614-go-get-make-or-do)
+	- [6.15 Strong and weak pronunciation forms](#615-strong-and-weak-pronunciation-forms)
+	- [6.16 "Will" and "would" for habits](#616-will-and-would-for-habits)
+- [7 Conditionals - if and wish](#7-conditionals-if-and-wish)
+	- [7.1 1st Conditional, 2nd Conditional](#71-1st-conditional-2nd-conditional)
+	- [7.2 wish](#72-wish)
+- [8 Passive](#8-passive)
+	- [8.1 Active/ Passive voice](#81-active-passive-voice)
+		- [8.1.1 Question words](#811-question-words)
+	- [8.2 Uses of the passive voice](#82-uses-of-the-passive-voice)
+- [9 Reported speech](#9-reported-speech)
+	- [9.1 Tell, say](#91-tell-say)
+	- [9.2 Direct speech and indirect speech](#92-direct-speech-and-indirect-speech)
+	- [9.3 Direct/indirect speech](#93-directindirect-speech)
+	- [9.4 imperatives, command](#94-imperatives-command)
+- [10 some in questions](#10-some-in-questions)
+- [11 Questions](#11-questions)
+	- [11.1 Making Questions](#111-making-questions)
+	- [11.2 How to make a question](#112-how-to-make-a-question)
+	- [11.3 Tail questions](#113-tail-questions)
+	- [11.4 Short answers](#114-short-answers)
+	- [11.5 So would i,neither can he, nor should they](#115-so-would-ineither-can-he-nor-should-they)
+	- [11.6 what and which](#116-what-and-which)
+	- [11.7 Question without the question form](#117-question-without-the-question-form)
+- [12 gerund, infinitive](#12-gerund-infinitive)
+	- [12.1 rather, would rather, would prefer to](#121-rather-would-rather-would-prefer-to)
+	- [12.2 Common uses of the gerund](#122-common-uses-of-the-gerund)
+- [13 Nouns and Articles](#13-nouns-and-articles)
+	- [13.1 Words not used in the plural](#131-words-not-used-in-the-plural)
+	- [13.2 Plural and singular nouns](#132-plural-and-singular-nouns)
+	- [13.3 infinitive and gerund](#133-infinitive-and-gerund)
+	- [13.4 The, a](#134-the-a)
+	- [13.5 making verb](#135-making-verb)
+	- [13.6 Noun (or pronoun) + infinitive with “to”](#136-noun-or-pronoun-infinitive-with-to)
+	- [13.7 "Any” and “some” with singular countable nouns](#137-any-and-some-with-singular-countable-nouns)
+- [14 Pronouns and Determiners](#14-pronouns-and-determiners)
+	- [14.1 Reflexive pronouns](#141-reflexive-pronouns)
+	- [14.2 Emphasizing pronouns](#142-emphasizing-pronouns)
+- [15 Relative clauses](#15-relative-clauses)
+	- [15.1 Relative clauses, Relative pronouns](#151-relative-clauses-relative-pronouns)
+	- [15.2 Preparatory](#152-preparatory)
+- [16 Adjectives](#16-adjectives)
+	- [16.1 Comparatives, Superlatives](#161-comparatives-superlatives)
+	- [16.2 Possessive adjectives-Poseessive pronouns](#162-possessive-adjectives-poseessive-pronouns)
+- [17 Adverbs](#17-adverbs)
+	- [17.1 Adverbs formed from adjectives](#171-adverbs-formed-from-adjectives)
+	- [17.2 Adverbs of frequency](#172-adverbs-of-frequency)
+- [18 Conjunctions and prepositions](#18-conjunctions-and-prepositions)
+	- [18.1 Preposition (on,under,in,from etc.)](#181-preposition-onunderinfrom-etc)
+	- [18.2 in spite of/ despite](#182-in-spite-of-despite)
+- [19 Phrasal verbs](#19-phrasal-verbs)
+- [20 Sentence Pattern](#20-sentence-pattern)
+	- [20.1 “The” + comparative ..., “the” + comparative ...](#201-the-comparative-the-comparative-)
+- [21 Vocabulary](#21-vocabulary)
+- [22 Idioms](#22-idioms)
+- [23 Suffix, Prefix](#23-suffix-prefix)
+	- [23.1 Change of spelling with comparison of adjectives](#231-change-of-spelling-with-comparison-of-adjectives)
+	- [23.2 S suffix](#232-s-suffix)
+	- [23.3 "-ed" Pronunciation](#233-ed-pronunciation)
+	- [23.4 Doubling consonants](#234-doubling-consonants)
+	- [23.5 Common verb suffixes](#235-common-verb-suffixes)
+	- [23.6 Common prefixes](#236-common-prefixes)
+- [24 Quantity](#24-quantity)
+	- [24.1 Any/Some - Many/Specific](#241-anysome-manyspecific)
+	- [24.2 anybody, somebody, nobody](#242-anybody-somebody-nobody)
+	- [24.3 Many, much, few little, a lot of](#243-many-much-few-little-a-lot-of)
+- [25 Clause and Phrase](#25-clause-and-phrase)
+	- [25.1 Clauses, Conjunction, Phrases](#251-clauses-conjunction-phrases)
+	- [25.2 Time clause, Conditional clause](#252-time-clause-conditional-clause)
+- [26 Embedded Questions](#26-embedded-questions)
+- [27 Practicing](#27-practicing)
+- [28 Pronunciation](#28-pronunciation)
+- [29 Sorulara cevap vermek](#29-sorulara-cevap-vermek)
+- [30 Kısaltmalar - contraction](#30-ksaltmalar-contraction)
+- [31 Cümle kurmak](#31-cümle-kurmak)
+- [32 Kelimeler ve kullanım şekilleri](#32-kelimeler-ve-kullanm-ekilleri)
+- [33 ToolBox](#33-toolbox)
+	- [33.1 Synonyms & Antonyms](#331-synonyms-antonyms)
+	- [33.2 Useful Questions](#332-useful-questions)
+	- [33.3 Sentences](#333-sentences)
+- [34 Pronetic Alphabet- IPA](#34-pronetic-alphabet-ipa)
+		- [Vowels](#vowels)
+		- [Consanant](#consanant)
+		- [](#)
+- [35 Make a suggestion](#35-make-a-suggestion)
+- [36 titles- sir,madam,gentleman,lady,mr,mrs](#36-titles-sirmadamgentlemanladymrmrs)
+- [37 Emphatic Do](#37-emphatic-do)
+- [38 Formal letters, emails](#38-formal-letters-emails)
+- [39 discuss, argue, quarrel](#39-discuss-argue-quarrel)
+- [40 Giving, asking for opinions](#40-giving-asking-for-opinions)
+- [41 Communicating general beliefs and opinions](#41-communicating-general-beliefs-and-opinions)
+- [42 Writing](#42-writing)
+	- [42.1 General advice for writing](#421-general-advice-for-writing)
+	- [42.2 Writing an informal letter or email](#422-writing-an-informal-letter-or-email)
+	- [42.3 Writing a cover letter](#423-writing-a-cover-letter)
+	- [42.4 Writing a report](#424-writing-a-report)
+	- [42.5 Emphasis: Inversions after negative or limiting adverbials](#425-emphasis-inversions-after-negative-or-limiting-adverbials)
+	- [42.6 the bigger... the more....](#426-the-bigger-the-more)
+	- [42.7 Writing a story](#427-writing-a-story)
+	- [42.8 in prison, to church, at university](#428-in-prison-to-church-at-university)
+	- [42.9 Writing an essay](#429-writing-an-essay)
+	- [42.10 Writing an article](#4210-writing-an-article)
+	- [42.11 Reduced relative clauses](#4211-reduced-relative-clauses)
+	- [42.12 Writing a review](#4212-writing-a-review)
+- [43 Fixed phrases](#43-fixed-phrases)
+	- [**Giving information**](#giving-information)
+
+<!-- /TOC -->
 
 # 1 Tenses Summary
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-  |  
 
 ## 1.1 Tenses Chart-1
 
@@ -65,11 +248,11 @@ Content in the first column | Content in the second column
 
  I do, he does, Tom does
 
-Positive  :  S + V1  ( i do. He does )
-Negative :  S + don't/doesn't + V1  (i don't, He doesn't)
-Question :  do/does + S + V1  (do i? does he?)
+- Positive  :  S + V1  ( i do. He does )
+- Negative :  S + don't/doesn't + V1  (i don't, He doesn't)
+- Question :  do/does + S + V1  (do i? does he?)
 
-### **Usage (fact, habit)**
+ **- Usage (fact, habit)**
 
 1. For something which happens, (Action is **regular** , **habitual**   or **repeatedly** ) (things in general)
    We go out every Saturday night regularly or which is a habit. I usually go away at weekends.
@@ -151,9 +334,9 @@ resources: http://www.perfect-english-grammar.com/support-files/present_simple_f
 
 I am doing, You are doing, He is doing, Tom is doing
 
-Positive  :  S +am/is/are + V1ing   (I'm  doing, She is doing. We are doing, John is doing)
-Negative :  S + am/is/are+ not + V1ing  (you aren't doing)
-Question :  am/is/are+ S + V1ing  (is he swiming)
+- Positive  :  S +am/is/are + V1ing   (I'm  doing, She is doing. We are doing, John is doing)
+- Negative :  S + am/is/are+ not + V1ing  (you aren't doing)
+- Question :  am/is/are+ S + V1ing  (is he swiming)
 
 Contractions:
 He's = he is
@@ -161,7 +344,7 @@ I'm   = i am
 he/she/it isn't  = is not
 we're  = we are
 
-### **Usage (in proggress)**  
+ **Usage (in proggress) **
  **1.**  Action going on at present time.
     For an event in progress at the present time.   
     We use the present continuous for an action that **we are doing now** .
@@ -253,7 +436,7 @@ he's/she's/it's spoken (he has spoken)
 he/she/it hasn't spoken (has not)
 we've spoken (we have)
 
-### **Usage (Action completed at the time of speaking )**
+### Usage (Action completed at the time of speaking )
 1. For an event which is finished but still **effects**  the present. (the action in the past has a result now.)
     I can't write because I've broken my arm.
     I've cut my finger
