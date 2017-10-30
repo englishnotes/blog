@@ -7,7 +7,7 @@ description: short description of your site's purpose
 baseurl:
 
 show_downloads: true
-google_analytics: UA-2498474-2
+#google_analytics: UA-2498474-2
 
 
 collections:
