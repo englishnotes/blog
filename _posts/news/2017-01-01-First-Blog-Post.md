@@ -3,6 +3,8 @@ layout: default
 title: My first blog Posts
 meta: first Posts
 category: news
+theme: jekyll-theme-architect
+description: A short description of your site's purpose
 
 ---
 
@@ -12,6 +14,8 @@ sadf
 sdf
 af
 asd
+sdfsd
+
 f
 ## alt baslik
 
