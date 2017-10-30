@@ -18,24 +18,27 @@
 
   {% include nav.html %}
   {% include side-menu.html %}
-
-  <div class="container" id="main">
+  <div style="width:80%">
+   <div class="container" id="main">
       <div ui-view class="fade-in-up" id="ui-view" style="padding:20px;">
           {{content}}
       </div>
-  </div>
-  <!--#region FOOTER -->
-  <footer>
-      <div class="row">
-          <ul class="list-unstyled text-right">
+      <!--#region FOOTER -->
+      <footer>
+          <div class="row">
+              <ul class="list-unstyled text-right">
 
-              <li class="col-sm-4 col-xs-6">
-                  <a href="#">&copy; 2017 - English notes</a>
-              </li>
-          </ul>
+                  <li class="col-sm-4 col-xs-6">
+                      <a href="#">&copy; 2017 - English notes</a>
+                  </li>
+              </ul>
+          </div>
+      </footer>
+      <!--#endregion FOOTER -->
       </div>
-  </footer>
-  <!--#endregion FOOTER -->
+  </div>
+
+
 {% include lib.html %}
 
   </body>
