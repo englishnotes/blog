@@ -1,6 +1,6 @@
 markdown: kramdown
 environment: production
-baseurl: /blog
+baseurl: 
 permalink: pretty
 highlighter: rouge
 
