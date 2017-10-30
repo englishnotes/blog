@@ -5,6 +5,11 @@ body {
     margin: 0px;
 }
 
+.markdown-body {
+
+    font-size: 14px;
+}
+
 /* #endregion BASE STYLES */
 
 /* #region MENU */
