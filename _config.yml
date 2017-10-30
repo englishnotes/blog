@@ -4,10 +4,10 @@ permalink: pretty
 highlighter: rouge
 title: The title of your site
 description: short description of your site's purpose
-baseurl: 
+baseurl:
 
 show_downloads: true
-google_analytics:
+google_analytics: UA-2498474-2
 
 
 collections:
