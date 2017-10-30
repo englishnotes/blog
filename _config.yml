@@ -2,9 +2,9 @@ markdown: kramdown
 environment: production
 permalink: pretty
 highlighter: rouge
-baseurl: 
 title: The title of your site
 description: short description of your site's purpose
+baseurl: 
 
 show_downloads: true
 google_analytics:
