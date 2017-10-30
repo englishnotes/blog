@@ -3,7 +3,6 @@ environment: production
 baseurl: /blog
 permalink: pretty
 highlighter: rouge
-theme: jekyll-theme-architect
 
 title: The title of your site
 description: short description of your site's purpose
