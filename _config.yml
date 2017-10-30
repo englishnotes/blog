@@ -10,4 +10,4 @@ collections:
     output: true
     permalink: /downloads/:path/
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
