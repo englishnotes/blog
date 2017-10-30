@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown
 title: My first blog Posts
 meta: first Posts
 category: news
