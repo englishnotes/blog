@@ -8,7 +8,12 @@ body {
 .markdown-body {
     font-size: 14px;
 }
-
+H1:before, H2:before, H3:before {
+    content:"";
+    display:block;
+    height:100px;
+    margin:-100px 0 0;
+}
 /* #endregion BASE STYLES */
 
 /* #region MENU */
